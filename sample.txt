@@ -1,3 +1,7 @@
 Hi This is for testing purpose
+<<<<<<< HEAD
 This is for merge request on master
+=======
+This is for merge request in v1
+>>>>>>> v1
 We have changed this in version v1
